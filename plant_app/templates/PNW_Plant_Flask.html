@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Pacific Northwest Plant Identifier</title>
+<style>
+h1 {
+	text-align: center;
+}
+body {
+	background-color: #8FBC8F;
+}
+form {
+	text-align: center;
+	margin:  0 auto;
+	width:  250 px;
+	padding:  1 em;
+}
+p {
+	text-align: center;
+}
+
+</style>
+</head>
+<body>
+<h1><em>Pacific Northwest Plant Identifier</em></h1>
+<br><br>
+<p>
+{% if node.name %}
+	Congratulations! You have identified a {{node.name}}.
+{% else %}
+	{{ node.left_attribute }}
+	<a href="?node_id={{node.left_index}}">Left</a>
+	</p>
+	<p>
+	or
+	</p>
+
+	<p>
+	{{ node.right_attribute }}
+	<a href="?node_id={{node.right_index}}">Right</a>
+	</p>
+{% endif %}
+</body>
+</html>
