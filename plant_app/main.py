@@ -16,7 +16,6 @@ node_config = {
         'right_index': 2,
         'left_img': 'https://jakesnatureblog.com/wp-content/uploads/2017/02/aspen-leaf.jpg',
         'right_img': 'https://www.healthbenefitstimes.com/9/uploads/2016/04/Horsetail-Tea.png', 
-        'is_leaf': False,
         'name': None
     },
 
@@ -28,7 +27,6 @@ node_config = {
         'right_index': 4,
         'left_img': 'https://www.cypresscreeklandscapesupply.com/blog/wp-content/uploads/2019/11/shrubs.jpg',
         'right_img': 'https://www.greenlawnfertilizing.com/wp-content/uploads/2017/01/oak-tree.jpg.webp',
-        'is_leaf': False,
         'name': None
     },
 
@@ -39,7 +37,6 @@ node_config = {
         'right_index': 6,
         'left_img': 'https://www.naturallywood.com/wp-content/uploads/Douglas-Fir_KCharleton_042_10474-1200x800-5b2df79-e1600100637617.jpg',
         'right_img': 'https://cdn.shopify.com/s/files/1/0089/3075/4665/products/cedar_leaf_Thuja_occidentalis_1200x.jpg?v=1569171691',
-        'is_leaf': False,
         'name': None
     },
 
@@ -50,7 +47,6 @@ node_config = {
         'right_index': 8,
         'left_img': 'https://pbs.twimg.com/media/CFaLZs9WAAAtesF?format=jpg&name=small',
         'right_img': 'http://dendro.cnre.vt.edu/dendrology/images/Quercus%20velutina/leaf1.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -61,7 +57,6 @@ node_config = {
         'right_index': 10,
         'left_img': 'https://i.etsystatic.com/14438497/r/il/e6a1fa/1270238314/il_fullxfull.1270238314_oh69.jpg',
         'right_img': 'https://i.pinimg.com/564x/9f/95/29/9f9529395b1306bd4843c8fa8e034208.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -72,7 +67,6 @@ node_config = {
         'right_index': 12,
         'left_img': 'https://cdn.shopify.com/s/files/1/0510/9855/0461/products/hydrosol-doug-fir-botanical-second_1024x1024.jpg?v=1616627159',
         'right_img': 'https://storage.idigbio.org/portals/seinet/midwest/Pinaceae/201808/Tsuga_heterophylla_cone_er_1534286428.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -83,7 +77,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Western Red Cedar'
     },
 
@@ -94,7 +87,6 @@ node_config = {
         'right_index': 14,
         'left_img': 'https://www.thoughtco.com/thmb/sXrVxKbkw8SbiwaW0vh8Yz92_oM=/1250x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/152846652_10-56af62205f9b58b7d0182bcb.jpg',
         'right_img': 'https://images.squarespace-cdn.com/content/v1/5ab428368ab722cc4372413b/1585668188524-JOV6CYBWVAGAAHY2VBET/Mahonia+aquifolium+flower.jpg?format=1000w',
-        'is_leaf': False,
         'name': None
     },
 
@@ -105,7 +97,6 @@ node_config = {
         'right_index': 16,
         'left_img': 'https://www.choicesdomatter.org/wp-content/uploads/2015/06/skunk-cabbage-closeup.jpg',
         'right_img': 'https://cdn.pixabay.com/photo/2020/04/30/21/40/green-leaves-5114700_1280.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -116,7 +107,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Madrone'
     },
 
@@ -127,7 +117,6 @@ node_config = {
         'right_index': 18,
         'left_img': 'https://pbs.twimg.com/media/CFaLZs9WAAAtesF?format=jpg&name=small',
         'right_img': 'http://dendro.cnre.vt.edu/dendrology/images/Quercus%20velutina/leaf1.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -138,7 +127,6 @@ node_config = {
         'right_index': 20,
         'left_img': 'https://www.cypresscreeklandscapesupply.com/blog/wp-content/uploads/2019/11/shrubs.jpg',
         'right_img': 'https://www.greenlawnfertilizing.com/wp-content/uploads/2017/01/oak-tree.jpg.webp',
-        'is_leaf': False,
         'name': None
     },
 
@@ -149,7 +137,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Western Hemlock'
     },
 
@@ -160,7 +147,6 @@ node_config = {
         'right_index': 22,
         'left_img': 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Polystichum_munitum_%28Jami_Dwyer%29_001.jpg',
         'right_img': 'https://cdn11.bigcommerce.com/s-gp99ab/images/stencil/500x659/products/4752/11292/apivwslpm__13856.1630323659__62663.1630981312.jpg?c=3',
-        'is_leaf': False,
         'name': None
     },
 
@@ -171,7 +157,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Oregon Grape'
     },
 
@@ -182,7 +167,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Skunk Cabbage'
     },
 
@@ -193,7 +177,6 @@ node_config = {
         'right_index': 24,
         'left_img': 'https://womenbelong.com/wp-content/uploads/2017/09/asian-girl-flower-smell-2-1.jpg',
         'right_img': 'https://www.sanluisobispo.com/news/local/education/eqmo7n/picture244132872/alternates/FREE_768/zCorpse%20flower056627',
-        'is_leaf': False,
         'name': None
     },
 
@@ -204,7 +187,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Red Elderberry'
     },
 
@@ -215,7 +197,6 @@ node_config = {
         'right_index': 26,
         'left_img': 'https://i.redd.it/7r773173jk271.jpg',
         'right_img': 'https://upload.wikimedia.org/wikipedia/commons/3/33/Rosa_canina_blatt_2005.05.26_11.50.13.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -226,7 +207,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Horsetail'
     },
 
@@ -237,7 +217,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Douglas Fir'
     },
 
@@ -248,7 +227,6 @@ node_config = {
         'right_index': 28,
         'left_img': 'https://i0.wp.com/www.coastwildlife.org/wp-content/uploads/2020/05/fern1.png?fit=480%2C358&ssl=1',
         'right_img': 'https://www.anniesannuals.com/signs/b%20-%20c/images//blechnum_spicant.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -259,7 +237,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Bracken Fern'
     },
 
@@ -270,7 +247,6 @@ node_config = {
         'right_index': 30,
         'left_img': 'https://i.pinimg.com/564x/fd/aa/3c/fdaa3c42a2e59a8ee8c160d9accc8955.jpg',
         'right_img': 'https://www.plantoregon.com/images/products/symphoricarposalbusLARGEnew.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -281,7 +257,6 @@ node_config = {
         'right_index': 32,
         'left_img': 'https://3.bp.blogspot.com/-c4lc1HfDHe8/WtJ3LvEA7PI/AAAAAAAAAdc/8fbU-inT9Porxkdduahi2JSojK71Vck1QCLcBGAs/s1600/fullsizeoutput_192.jpeg',
         'right_img': 'https://cdn.shopify.com/s/files/1/1518/7378/products/Salal.JPG?v=1531414506',
-        'is_leaf': False,
         'name': None
     },
 
@@ -292,7 +267,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Big Leaf Maple'
     },
 
@@ -303,7 +277,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Red Alder'
     },
 
@@ -314,7 +287,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Sword Fern'
     },
 
@@ -325,7 +297,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Deer Fern'
     },
 
@@ -336,7 +307,6 @@ node_config = {
         'right_index': 34,
         'left_img': 'https://4.bp.blogspot.com/_w82lQpJ5qcE/TUWqPOdszwI/AAAAAAAACvo/LwtYFeJg74I/s1600/thimbleberry-parent-closer3-sm.jpg',
         'right_img': 'https://sussexwoodland.files.wordpress.com/2011/06/229.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -347,7 +317,6 @@ node_config = {
         'right_index': 36,
         'left_img': 'https://3.bp.blogspot.com/-c4lc1HfDHe8/WtJ3LvEA7PI/AAAAAAAAAdc/8fbU-inT9Porxkdduahi2JSojK71Vck1QCLcBGAs/s1600/fullsizeoutput_192.jpeg',
         'right_img': 'https://cdn.shopify.com/s/files/1/1518/7378/products/Salal.JPG?v=1531414506',
-        'is_leaf': False,
         'name': None
     },
 
@@ -358,7 +327,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Stinky Bob (Herb Robert)'
     },
 
@@ -369,7 +337,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Poison Hemlock'
     },
 
@@ -380,7 +347,6 @@ node_config = {
         'right_index': 38,
         'left_img': 'https://images.squarespace-cdn.com/content/v1/5355817fe4b0d272a279fe8c/1557526755528-A6RZJFDPQA7W5HO9G1I5/salal-tips.jpg?format=750w',
         'right_img': 'https://i0.wp.com/twiningvinegarden.com/wp-content/uploads/2020/06/rubus-ursinus-fruit-e1593118705405.jpg?fit=498%2C600&ssl=1',
-        'is_leaf': False,
         'name': None
     },
 
@@ -391,7 +357,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Trillium'
     },
 
@@ -402,7 +367,6 @@ node_config = {
         'right_index': 40,
         'left_img': 'https://i.pinimg.com/564x/d9/54/22/d95422ecfaceca1371779c3f03649a0e.jpg',
         'right_img': 'https://www.adirondack.net/images/stinging-nettle.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -413,7 +377,6 @@ node_config = {
         'right_index': 42,
         'left_img': 'https://www.nwcb.wa.gov/images/weeds/himalayan-blackberry/himalayanblackberry3.jpg',
         'right_img': 'https://ucanr.edu/blogs/SJVAgronomyWeedScienceBlog/blogfiles/53234_original.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -424,7 +387,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'English Ivy'
     },
 
@@ -435,7 +397,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Trailing Blackberry'
     },
 
@@ -446,7 +407,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Thimbleberry'
     },
 
@@ -457,7 +417,6 @@ node_config = {
         'right_index': 44,
         'left_img': 'https://www.nwcb.wa.gov/images/weeds/himalayan-blackberry/himalayanblackberry3.jpg',
         'right_img': 'https://ucanr.edu/blogs/SJVAgronomyWeedScienceBlog/blogfiles/53234_original.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -468,7 +427,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Salmonberry'
     },
 
@@ -479,7 +437,6 @@ node_config = {
         'right_index': 46,
         'left_img': 'https://i.pinimg.com/564x/d9/54/22/d95422ecfaceca1371779c3f03649a0e.jpg',
         'right_img': 'https://images.squarespace-cdn.com/content/v1/5355817fe4b0d272a279fe8c/1557526755528-A6RZJFDPQA7W5HO9G1I5/salal-tips.jpg?format=750w',
-        'is_leaf': False,
         'name': None
     },
 
@@ -490,7 +447,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Himalayan Blackberry'
     },
 
@@ -501,7 +457,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Stinging Nettle'
     },
 
@@ -512,7 +467,6 @@ node_config = {
         'right_index': 48,
         'left_img': 'https://pmcafee2013.files.wordpress.com/2014/07/cahi3_stem_001.jpg',
         'right_img': 'https://pearsonecological.com/wp-content/uploads/32175819587_f6176c043b_k.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -523,7 +477,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Salal'
     },
 
@@ -534,7 +487,6 @@ node_config = {
         'right_index': 50,
         'left_img': 'https://sussexwoodland.files.wordpress.com/2011/06/229.jpg',
         'right_img': 'https://4.bp.blogspot.com/_w82lQpJ5qcE/TUWqPOdszwI/AAAAAAAACvo/LwtYFeJg74I/s1600/thimbleberry-parent-closer3-sm.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -545,7 +497,6 @@ node_config = {
         'right_index': 52,
         'left_img': 'https://www.healthbenefitstimes.com/glossary/wp-content/uploads/2020/06/Serrated-leaf.jpg',
         'right_img': 'https://www.friendsofthewildflowergarden.org/generaljpegs/Seasons/trees/snowberryleafh.jpg',
-        'is_leaf': False,
         'name': None
     },
 
@@ -556,7 +507,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Scotch Broom'
     },
 
@@ -567,7 +517,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Red Huckleberry'
     },
 
@@ -578,7 +527,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Hardhack'
     },
 
@@ -589,7 +537,6 @@ node_config = {
         'right_index': None,
         'left_img': '',
         'right_img': '',
-        'is_leaf': True,
         'name': 'Snowberry'
     },
 }
@@ -598,14 +545,13 @@ node_config = {
 
 
 class Node:
-    def __init__(self, left_attribute, right_attribute, left_index, right_index, left_img, right_img, is_leaf=False, name=None):
+    def __init__(self, left_attribute, right_attribute, left_index, right_index, left_img, right_img, name=None):
         self.left_attribute = left_attribute
         self.right_attribute = right_attribute
         self.left_index = left_index
         self.right_index = right_index
         self.left_img = left_img
         self.right_img = right_img
-        self.is_leaf = is_leaf
         self.name = name
         
 
@@ -616,7 +562,7 @@ def index():
     node_id = int(request.args.get('node_id', 0))
     config = node_config[node_id]
 
-    node = Node(config['left_attribute'], config['right_attribute'], config['left_index'], config['right_index'], config['left_img'], config['right_img'], config['is_leaf'], config['name'])
+    node = Node(config['left_attribute'], config['right_attribute'], config['left_index'], config['right_index'], config['left_img'], config['right_img'], config['name'])
 
     return render_template('PNW_Plant_Flask.html', node=node)
     
