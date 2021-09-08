@@ -51,9 +51,8 @@ button {
 	<h1>Pacific Northwest Plant Finder</h1>
 	<h3>Please click on the picture that most closely resembles your plant.</h3>
 	<br><br>
-	<br><br>
 	<p>{{ node.left_attribute }}</p>
-	<a href="?node_id={{node.left_index}}"><img style="position:absolute;top:250px;left:200px;" src="{{node.left_img.strip('')}}"></a>
+	<a href="?node_id={{node.left_index}}"><img style="position:absolute;top:450px;left:100px;" src="{{node.left_img.strip('')}}"></a>
 	</p>
 	<p>
 	or
@@ -61,7 +60,7 @@ button {
 
 	<p>
 	<p>{{ node.right_attribute }}</p>
-	<a href="?node_id={{node.right_index}}"><img style="position:absolute;top:250px;right:200px;" src="{{node.right_img.strip('')}}"></a>
+	<a href="?node_id={{node.right_index}}"><img style="position:absolute;top:450px;right:100px;" src="{{node.right_img.strip('')}}"></a>
 	</p>
 {% endif %}
 </body>
