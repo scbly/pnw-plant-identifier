@@ -401,7 +401,7 @@ node_config = {
         'left_index': 39,
         'right_index': 40,
         'left_img': 'https://i.pinimg.com/564x/d9/54/22/d95422ecfaceca1371779c3f03649a0e.jpg',
-        'right_img': 'https://www.wildedible.com/sites/default/files/styles/1200wide/public/stinging-nettles-p.jpg?itok=FfK4sEkJ',
+        'right_img': 'https://www.adirondack.net/images/stinging-nettle.jpg',
         'is_leaf': False,
         'name': None
     },
