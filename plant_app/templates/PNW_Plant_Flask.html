@@ -1,38 +1,67 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link href='https://fonts.googleapis.com/css?family=Alata' rel='stylesheet'>
 	<meta charset="utf-8">
-	<title>Pacific Northwest Plant Identifier</title>
+	<title>Pacific Northwest Plant Finder</title>
 <style>
 h1 {
+	text-align: center;
+	font-size: 52px;
+}
+h3 {
 	text-align: center;
 }
 body {
 	background-color: #8FBC8F;
+	font-family: 'Alata';
+	font-size:  22px;
 }
 p {
 	text-align: center;
+}
+img {
+	max-width:  100%;
+	height:  auto;
+	height: 300px;
+	width:  300px;
+	border-radius: 20px;
+	border:  6px solid #555;
+	
+}
+form {
+	text-align: center;
+}
+button {
+	font-family: 'Alata';
+	font-size: 16px;
 }
 
 </style>
 </head>
 <body>
-<h1><em>Pacific Northwest Plant Identifier</em></h1>
-<br><br>
 <p>
 {% if node.name %}
-	Congratulations! You have identified a {{node.name}}.
+	<h1>Pacific Northwest Plant Finder</h1>
+	<h3>Congratulations! You have identified a {{node.name}}.</h3>
+	<form action="https://pnw-plant-identifier.uc.r.appspot.com/">
+		<button type="submit">Start Over</button>
+	</form>
 {% else %}
-	{{ node.left_attribute }}
-	<a href="?node_id={{node.left_index}}">Left</a>
+	<h1>Pacific Northwest Plant Finder</h1>
+	<h3>Please click on the picture that most closely resembles your plant.</h3>
+	<br><br>
+	<br><br>
+	<p>{{ node.left_attribute }}</p>
+	<a href="?node_id={{node.left_index}}"><img style="position:absolute;top:250px;left:200px;" src="{{node.left_img.strip('')}}"></a>
 	</p>
 	<p>
 	or
 	</p>
 
 	<p>
-	{{ node.right_attribute }}
-	<a href="?node_id={{node.right_index}}">Right</a>
+	<p>{{ node.right_attribute }}</p>
+	<a href="?node_id={{node.right_index}}"><img style="position:absolute;top:250px;right:200px;" src="{{node.right_img.strip('')}}"></a>
 	</p>
 {% endif %}
 </body>
