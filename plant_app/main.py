@@ -26,7 +26,7 @@ node_config = {
         'right_attribute': 'more than 10 feet tall?',
         'left_index': 3,
         'right_index': 4,
-        'left_img': 'https://en.wikipedia.org/wiki/Shrub#/media/File:Hortensie,_blau.jpg',
+        'left_img': 'https://gardeningsolutions.ifas.ufl.edu/images/plants/shrubs/dwarf_holly_rotunda.jpg',
         'right_img': 'https://www.greenlawnfertilizing.com/wp-content/uploads/2017/01/oak-tree.jpg.webp',
         'name_img': None,
         'name': None
